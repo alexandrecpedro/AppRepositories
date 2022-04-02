@@ -1,122 +1,146 @@
 {
   "data": [
     {
-      "id": 81223601,
-      "name": "android-DocumentCentricApps",
+      "id": 467292483,
+      "name": "AboutMe",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
       },
-      "stargazers_count": 0,
-      "language": "Java",
-      "html_url": "https://github.com/EzequielMessore/android-DocumentCentricApps",
-      "description": "description"
-    },
-    {
-      "id": 178429138,
-      "name": "android-guidelines",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/android-guidelines",
-      "description": "Architecture and code guidelines we use at ribot when developing for Android",
-      "stargazers_count": 0,
-      "language": "guideline"
-    },
-    {
-      "id": 183915325,
-      "name": "android-testing",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/android-testing",
-      "description": "A collection of samples demonstrating different frameworks and techniques for automated testing",
+      "html_url": "https://github.com/alexandrecpedro/AboutMe",
+      "description": "The AboutMe app is a demo app that shows information about a person.",
       "stargazers_count": 1,
-      "language": "Java"
-    },
-    {
-      "id": 378749135,
-      "name": "app-repositories",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/app-repositories",
-      "description": "empty description",
-      "stargazers_count": 2,
       "language": "Kotlin"
     },
     {
-      "id": 63367755,
-      "name": "avaliacao-ios",
+      "id": 469735193,
+      "name": "AndroidTrivia",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios",
-      "description": "empty description",
-      "stargazers_count": 3,
-      "language": "Objective-C"
-    },
-    {
-      "id": 63448974,
-      "name": "avaliacao-ios-manual",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios-manual",
-      "description": "empty description",
-      "stargazers_count": 7,
-      "language": "Objective-C"
-    },
-    {
-      "id": 263680765,
-      "name": "base-redcode",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/base-redcode",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Empty"
-    },
-    {
-      "id": 183948239,
-      "name": "BaseJetpack",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/BaseJetpack",
-      "description": "Examples with Jetpack components",
-      "stargazers_count": 2,
+      "html_url": "https://github.com/alexandrecpedro/AndroidTrivia",
+      "description": "The AndroidTrivia app asks the user trivia questions about Android development.",
+      "stargazers_count": 0,
       "language": "Kotlin"
     },
     {
-      "id": 265040807,
-      "name": "Chuck-Norris-Facts",
+      "id": 476527040,
+      "name": "AppRepositories",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
-      "description": "An Android client for the Chuck Norris facts API",
-      "stargazers_count": 5,
+      "html_url": "https://github.com/alexandrecpedro/AppRepositories",
+      "description": "GitHub repository list app, using a robust and testable architecture, through the MVVM structural pattern.",
+      "stargazers_count": 0,
       "language": "Kotlin"
     },
     {
-      "id": 369822554,
-      "name": "coin-converter",
+      "id": 467323476,
+      "name": "ColorMyViews",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/coin-converter",
-      "description": "empty description",
+      "html_url": "https://github.com/alexandrecpedro/ColorMyViews",
+      "description": "The ColorMyViews app is a demo game app that lets users click to color boxes and the background.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 470602079,
+      "name": "DessertPusher",
+      "owner": {
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
+      },
+      "html_url": "https://github.com/alexandrecpedro/DessertPusher",
+      "description": "DessertPusher is a game about making desserts. Press the button, make a dessert, earn the big bucks.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 474050305,
+      "name": "DevByteViewer",
+      "owner": {
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
+      },
+      "html_url": "https://github.com/alexandrecpedro/DevByteViewer",
+      "description": "DevByte Viewer is an example app that showcases using Room and a Repository to create an offline cache, and WorkManager for scheduling periodic work. ",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 466251511,
+      "name": "DiceRoller",
+      "owner": {
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
+      },
+      "html_url": "https://github.com/alexandrecpedro/DiceRoller",
+      "description": "DiceRoller is a simple Android app that rolls a six sided die.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 474149643,
+      "name": "GDGFinder",
+      "owner": {
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
+      },
+      "html_url": "https://github.com/alexandrecpedro/GDGFinder",
+      "description": "GDG Finder helps you locate GDGs around the world or start one of your own.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 472409326,
+      "name": "GuessIt",
+      "owner": {
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
+      },
+      "html_url": "https://github.com/alexandrecpedro/GuessIt",
+      "description": "Guess It is a word guessing app you can play with one or more friends. To play, hold the device in landscape, facing away from you with your thumbs on the **Skip** and **Got It** buttons. Your friends can then give you clues to help you guess the word.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 473699792,
+      "name": "MarsRealEstate",
+      "owner": {
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
+      },
+      "html_url": "https://github.com/alexandrecpedro/MarsRealEstate",
+      "description": "MarsRealEstate is a simple demo app using ViewModel & LiveData with Retrofit, Glide and Moshi in Kotlin.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 473208503,
+      "name": "SleepQualityTracker",
+      "owner": {
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
+      },
+      "html_url": "https://github.com/alexandrecpedro/SleepQualityTracker",
+      "description": "The SleepQualityTracker app is a demo app that helps you collect information about your sleep.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 473616170,
+      "name": "SleepQualityTrackerWithRecyclerView",
+      "owner": {
+        "login": "alexandrecpedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80993336?v=4"
+      },
+      "html_url": "https://github.com/alexandrecpedro/SleepQualityTrackerWithRecyclerView",
+      "description": "The SleepQualityTracker app is a demo app that helps you collect information about your sleep. This app builds on the SleepQualityTracker previous made (https://github.com/alexandrecpedro/SleepQualityTracker), refactoring the code to make it more efficient so it will be easier to maintain and test.",
       "stargazers_count": 1,
       "language": "Kotlin"
     }

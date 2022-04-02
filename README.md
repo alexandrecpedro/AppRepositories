@@ -24,7 +24,7 @@ The following tools were used in building the project:<br><br>
 
 |                  Type                  |                Tools                |                                 References                                  |
 | -------------------------------------: |-----------------------------------: | --------------------------------------------------------------------------: |
-|  Database - GitHub repository</bold>   |          GITHUB repository          |              https://github.com/alexandrecpedro?tab=repositories            |       
+|                Database      </bold>   |          GITHUB repository          |              https://github.com/alexandrecpedro?tab=repositories            |       
 |             GitHub API REST            |              GITHUB API             |              https://docs.github.com/en/rest                                |
 |          Programming Language          |              KOTLIN                 |              https://kotlinlang.org/                                        | 
 |                   IDE                  |          ANDROID STUDIO             |              https://developer.android.com/studio                           |

@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">App Repositories</string>
-    <string name="action_search">Pesquisar</string>
+    <string name="app_name">GitHub Portfolio</string>
+    <string name="action_search">Search</string>
 </resources>

@@ -27,7 +27,12 @@ The following tools were used in building the project:<br><br>
 |           Database - GitHub repository</bold> [GITHUB repository]            |              https://github.com/alexandrecpedro?tab=repositories            |       
 |                           GitHub API REST [GITHUB API]                       |              https://docs.github.com/en/rest                                |
 |                              Kotlin [KOTLIN]                                 |              https://kotlinlang.org/                                        | 
-|                        Android Studio [ANDROID STUDIO]                       |              https://developer.android.com/studio                           |
+|                     IDE - Android Studio [ANDROID STUDIO]                    |              https://developer.android.com/studio                           |
+|                      Injection Framework - Koin [KOIN]                       |              https://insert-koin.io/                                        |
+|                   HTTP API Library - Retrofit [RETROFIT]                     |              https://square.github.io/retrofit/                             |
+|                    HTTP Client Library - OkHttp [OkHTTP]                     |              https://square.github.io/okhttp/                               |
+|                    JSON.parse tool - Quicktype [QUICKTYPE]                   |              https://app.quicktype.io/                                      |
+
 <br>
 <br>
 
@@ -35,6 +40,10 @@ The following tools were used in building the project:<br><br>
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img width =' 100px ' src="https://insert-koin.io/img/koin_new_logo.png" />
+  <img width =' 100px ' src="./assets/Retrofit.jpeg" />
+  <img width =' 100px ' src="./assets/OkHttp.png" />
+  <img width =' 100px ' src="https://avatars.githubusercontent.com/u/30638520?s=280&v=4" />
 </div>
 
 <div id="route">

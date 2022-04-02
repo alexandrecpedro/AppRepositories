@@ -29,8 +29,8 @@ The following tools were used in building the project:<br><br>
 |                              Kotlin [KOTLIN]                                 |              https://kotlinlang.org/                                        | 
 |                     IDE - Android Studio [ANDROID STUDIO]                    |              https://developer.android.com/studio                           |
 |                      Injection Framework - Koin [KOIN]                       |              https://insert-koin.io/                                        |
-|                   HTTP API Library - Retrofit [RETROFIT]                     |              https://square.github.io/retrofit/                             |
-|                    HTTP Client Library - OkHttp [OkHTTP]                     |              https://square.github.io/okhttp/                               |
+|                 HTTP API Library - Retrofit2 [RETROFIT2]                     |              https://square.github.io/retrofit/                             |
+|                  HTTP Client Library - OkHttp3 [OkHTTP3]                     |              https://square.github.io/okhttp/                               |
 |                    JSON.parse tool - Quicktype [QUICKTYPE]                   |              https://app.quicktype.io/                                      |
 
 <br>

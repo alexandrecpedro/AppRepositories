@@ -57,7 +57,7 @@ The following tools were used in building the project:<br><br>
     <br>
     <li>Step 3 - Creating our interface</li>
     <br>
-    <li>Step 4 - Consuming an REST API: GitHub API</li>
+    <li>Step 4 - Consuming a REST API: GitHub API</li>
 </ol>
 </div>
 <br>

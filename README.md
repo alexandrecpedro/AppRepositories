@@ -22,16 +22,16 @@ through the MVVM structural pattern
 <h2> 🛠 Technologies </h2>
 The following tools were used in building the project:<br><br>
 
-|                                     Tools                                    |                                 References                                  |
-| ---------------------------------------------------------------------------: | --------------------------------------------------------------------------: |
-|           Database - GitHub repository</bold> [GITHUB repository]            |              https://github.com/alexandrecpedro?tab=repositories            |       
-|                           GitHub API REST [GITHUB API]                       |              https://docs.github.com/en/rest                                |
-|                              Kotlin [KOTLIN]                                 |              https://kotlinlang.org/                                        | 
-|                     IDE - Android Studio [ANDROID STUDIO]                    |              https://developer.android.com/studio                           |
-|                      Injection Framework - Koin [KOIN]                       |              https://insert-koin.io/                                        |
-|                 HTTP API Library - Retrofit2 [RETROFIT2]                     |              https://square.github.io/retrofit/                             |
-|                  HTTP Client Library - OkHttp3 [OkHTTP3]                     |              https://square.github.io/okhttp/                               |
-|                    JSON.parse tool - Quicktype [QUICKTYPE]                   |              https://app.quicktype.io/                                      |
+|                  Type                  |                Tools                |                                 References                                  |
+| -------------------------------------: |-----------------------------------: | --------------------------------------------------------------------------: |
+|  Database - GitHub repository</bold>   |          GITHUB repository          |              https://github.com/alexandrecpedro?tab=repositories            |       
+|             GitHub API REST            |              GITHUB API             |              https://docs.github.com/en/rest                                |
+|          Programming Language          |              KOTLIN                 |              https://kotlinlang.org/                                        | 
+|                   IDE                  |          ANDROID STUDIO             |              https://developer.android.com/studio                           |
+|          Injection Framework           |                KOIN                 |              https://insert-koin.io/                                        |
+|            HTTP API Library            |              RETROFIT2              |              https://square.github.io/retrofit/                             |
+|          HTTP Client Library           |              OkHTTP3                |              https://square.github.io/okhttp/                               |
+|             JSON.parse tool            |             QUICKTYPE               |              https://app.quicktype.io/                                      |
 
 <br>
 <br>
@@ -41,10 +41,10 @@ The following tools were used in building the project:<br><br>
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img width =' 100px ' src="https://insert-koin.io/img/koin_new_logo.png" />
+  <img width =' 100px ' src="https://avatars.githubusercontent.com/u/30638520?s=280&v=4" />
   <br>
   <img height=' 100px ' src="./assets/Retrofit.jpeg" />
   <img height =' 100px ' src="./assets/OkHttp.png" />
-  <img width =' 100px ' src="https://avatars.githubusercontent.com/u/30638520?s=280&v=4" />
 </div>
 
 <div id="route">

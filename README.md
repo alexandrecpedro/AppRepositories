@@ -23,7 +23,7 @@ through the MVVM structural pattern
 The following tools were used in building the project:<br><br>
 
 |                  Type                  |                Tools                |                                 References                                  |
-| -------------------------------------: |-----------------------------------: | --------------------------------------------------------------------------: |
+| :------------------------------------: | :---------------------------------: | :-------------------------------------------------------------------------: |
 |                Database      </bold>   |          GITHUB repository          |              https://github.com/alexandrecpedro?tab=repositories            |       
 |             GitHub API REST            |              GITHUB API             |              https://docs.github.com/en/rest                                |
 |          Programming Language          |              KOTLIN                 |              https://kotlinlang.org/                                        | 

@@ -41,8 +41,9 @@ The following tools were used in building the project:<br><br>
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img width =' 100px ' src="https://insert-koin.io/img/koin_new_logo.png" />
-  <img width =' 100px ' src="./assets/Retrofit.jpeg" />
-  <img width =' 100px ' src="./assets/OkHttp.png" />
+  <br>
+  <img height=' 100px ' src="./assets/Retrofit.jpeg" />
+  <img height =' 100px ' src="./assets/OkHttp.png" />
   <img width =' 100px ' src="https://avatars.githubusercontent.com/u/30638520?s=280&v=4" />
 </div>
 

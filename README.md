@@ -29,9 +29,10 @@ The following tools were used in building the project:<br><br>
 |          Programming Language          |              KOTLIN                 |              https://kotlinlang.org/                                        | 
 |                   IDE                  |          ANDROID STUDIO             |              https://developer.android.com/studio                           |
 |          Injection Framework           |                KOIN                 |              https://insert-koin.io/                                        |
+|             JSON.parse tool            |             QUICKTYPE               |              https://app.quicktype.io/                                      |
+| Media Management and Image Loading Framework |                GLIDE                |              https://bumptech.github.io/glide/                              |
 |            HTTP API Library            |              RETROFIT2              |              https://square.github.io/retrofit/                             |
 |          HTTP Client Library           |              OkHTTP3                |              https://square.github.io/okhttp/                               |
-|             JSON.parse tool            |             QUICKTYPE               |              https://app.quicktype.io/                                      |
 
 <br>
 <br>
@@ -42,6 +43,7 @@ The following tools were used in building the project:<br><br>
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img width =' 100px ' src="https://insert-koin.io/img/koin_new_logo.png" />
   <img width =' 100px ' src="https://avatars.githubusercontent.com/u/30638520?s=280&v=4" />
+  <img height =' 100px ' src="https://api.nuget.org/v3-flatcontainer/karamunting.androidx.bumptech.glide/4.9.0/icon" />
   <br>
   <img height=' 100px ' src="./assets/Retrofit.jpeg" />
   <img height =' 100px ' src="./assets/OkHttp.png" />

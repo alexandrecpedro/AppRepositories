@@ -56,6 +56,7 @@ dependencies {
     implementation "io.insert-koin:koin-android-ext:3.0.1"
     // Koin Core features
     implementation "io.insert-koin:koin-core:3.2.0-beta-1"
+    implementation "io.insert-koin:koin-android-ext:3.2.0-beta-1"
     // Koin main features for Android
     implementation "io.insert-koin:koin-android:3.2.0-beta-1"
     // Koin Test features
@@ -68,5 +69,8 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1"
     implementation 'com.google.android.datatransport:transport-runtime:3.1.2'
+
+    //glide @see https://bumptech.github.io/glide/
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
 
 }

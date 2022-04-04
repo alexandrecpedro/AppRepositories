@@ -7,10 +7,21 @@ import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.SearchView
 import br.com.dio.app.repositories.R
+import br.com.dio.app.repositories.core.createDialog
+import br.com.dio.app.repositories.core.createProgressDialog
+import br.com.dio.app.repositories.core.hideSoftKeyboard
 import br.com.dio.app.repositories.databinding.ActivityMainBinding
+import br.com.dio.app.repositories.presentation.MainViewModel
+import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
 
+    // Instance of Dialog
+    private val dialog by lazy { createProgressDialog() }
+    // Instance of View Model
+    private val viewModel by viewModel<MainViewModel>()
+    // Instance of RepoListAdapter
+    private val adapter by lazy { RepoListAdapter() }
     private val binding by lazy { ActivityMainBinding.inflate(layoutInflater) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,6 +30,30 @@ class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
         setContentView(binding.root)
         // Setting Toolbar
         setSupportActionBar(binding.toolbar)
+        // Associating RecyclerView with RepoListAdapter
+        binding.rvRepos.adapter = adapter
+
+        viewModel.repos.observe(this) {
+            // Handle all info (it = all states)
+            when(it) {
+                // Display ProgressDialog bar while loading
+                MainViewModel.State.Loading -> dialog.show()
+                is MainViewModel.State.Error -> {
+                    // Show the error
+                    createDialog {
+                        setMessage(it.error.message)
+                    }.show()
+                    // Stop displaying Dialog bar
+                    dialog.dismiss()
+                }
+                is MainViewModel.State.Success -> {
+                    // Stop displaying ProgressDialog bar when success
+                    dialog.dismiss()
+                    // Inserting into adapter the list of returns from success state
+                    adapter.submitList(it.list)
+                }
+            }
+        }
     }
 
     /** Building the Search Menu (non-nullable menu) **/
@@ -34,7 +69,11 @@ class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
     /** Implements interface **/
     // Researching
     override fun onQueryTextSubmit(query: String?): Boolean {
-        Log.e(TAG, "onQueryTextSubmit: $query")
+        // Testing query nullable
+        query?.let { viewModel.getRepoList(it) }
+        // Log.e(TAG, "onQueryTextSubmit: $query")
+        // Stop displaying keyboard
+        binding.root.hideSoftKeyboard()
         return true
     }
 

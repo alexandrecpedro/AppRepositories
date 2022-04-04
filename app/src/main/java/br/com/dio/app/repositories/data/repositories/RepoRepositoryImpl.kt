@@ -1,6 +1,6 @@
 package br.com.dio.app.repositories.data.repositories
 
-import android.os.RemoteException
+import br.com.dio.app.repositories.core.RemoteException
 import br.com.dio.app.repositories.data.model.Repo
 import br.com.dio.app.repositories.data.services.GitHubService
 import kotlinx.coroutines.flow.Flow
